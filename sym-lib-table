@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bl652-breakout)(type Legacy)(uri ${KIPRJMOD}/Lib/bl652-breakout.lib)(options "")(descr ""))
+  (lib (name TPS610986-module)(type Legacy)(uri ${KIPRJMOD}/Lib/TPS610986-module.lib)(options "")(descr ""))
+)
